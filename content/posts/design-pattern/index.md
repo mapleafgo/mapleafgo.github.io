@@ -1,11 +1,11 @@
 ---
 title: 设计模式也可以这么简单
 date: 2021-08-27T10:41:52+08:00
-tags: 
-    - 转载
+tags:
+  - 转载
 categories:
-    - 设计模式
-    - Java
+  - 设计模式
+  - Java
 toc: true
 ---
 

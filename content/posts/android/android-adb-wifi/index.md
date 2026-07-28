@@ -10,6 +10,7 @@ categories:
   - Android
   - Tools
 comments: true
+_width: normal
 ---
 
 最近用adb进行调试时遇到了连不上的问题，之前的设备只需要执行`adb connect [ip:host]`就能直接连上，今天各种试都不行，查百度也不行。
@@ -76,3 +77,4 @@ adb connect [ip:host]
 adb devices -l
 ```
 执行命令可以查看当前所有连接的设备，不出意外就可以看到咱们刚连接上的设备了
+
